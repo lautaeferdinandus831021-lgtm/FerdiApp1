@@ -1,29 +1,7 @@
-# Database
 *.db
-*.db-journal
-*.db-wal
-
-# Logs
 logs/
-*.log
-
-# Environment
 .env
 __pycache__/
 *.pyc
-*.pyo
-
-# IDE
 .vscode/
 .idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Backups
-backups/*.csv
-
-# Temp
-/tmp/
-*.tmp

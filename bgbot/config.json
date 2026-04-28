@@ -1,0 +1,6 @@
+{
+  "symbol": "BTCUSDT",
+  "timeframe": "1m",
+  "risk_percent": 1,
+  "strategy": "MACD_4_5_1"
+}
